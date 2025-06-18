@@ -132,7 +132,7 @@ const TopContainer = styled.section`
       height: 40px;
       font-size: 16px;
       padding: 0 10px;
-      &::placeholder{
+      &::placeholder {
         color: white;
       }
     }
@@ -161,3 +161,5 @@ export const Button = styled.button`
     background-color: #f22f2f;
   }
 `;
+
+// For Update
